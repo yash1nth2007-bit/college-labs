@@ -5,6 +5,7 @@
 - **Registration Number:** 252U1R8011
 - **Section:** S-13 *(Note: Please update if your official section differs)*
 
+
 ---
 
 ## Live Link
@@ -59,7 +60,17 @@ The Express server will start listening at: `http://localhost:3000/`
 
 ## Screenshots
 
-Screenshots will be added after route verification.
+### 1. Home Route (`GET /`)
+![Home Route](screenshots/home.png)
+
+### 2. About Route (`GET /about`)
+![About Route](screenshots/about.png)
+
+### 3. Time Route (`GET /time`)
+![Time Route](screenshots/time.png)
+
+### 4. 404 Not Found Route (`GET /unknown`)
+![404 Route](screenshots/404.png)
 
 ---
 
