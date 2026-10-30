@@ -9,7 +9,7 @@
 ---
 
 ## Live Link
-Not deployed yet
+https://college-labs-xzu5.onrender.com
 
 ---
 

@@ -31,8 +31,9 @@ app.use((req, res) => {
   res.status(404).send("404 - Route Not Found");
 });
 
-// Start Express server on port 3000
-app.listen(3000, () => {
-  console.log("Express server running on http://localhost:3000");
+// Start Express server on port 3000 (or process.env.PORT for cloud deployment like Render)
+const PORT = process.env.PORT || 3000;
+app.listen(PORT, () => {
+  console.log(`Express server running on http://localhost:${PORT}`);
 });
 
