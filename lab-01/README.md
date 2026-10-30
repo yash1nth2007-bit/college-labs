@@ -3,7 +3,7 @@
 ## Student Details
 - **Name:** Botka Yashwanth
 - **Registration Number:** 252U1R8011
-- **Section:** S-13 *(Note: Please update if your official section differs)*
+- **Section:** S-13 
 
 
 ---
