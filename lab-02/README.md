@@ -8,7 +8,7 @@
 ---
 
 ## Live Link
-Not deployed yet
+https://college-labs-lab-02.onrender.com
 
 ---
 
