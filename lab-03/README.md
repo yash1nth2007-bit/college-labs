@@ -8,7 +8,7 @@
 ---
 
 ## Live Link
-Not deployed yet
+https://lab-03-rest-api-server.onrender.com/
 
 ---
 
@@ -222,7 +222,35 @@ GET /books/?search_q=The&order_by=price&order=DESC&limit=5&offset=0&min_price=20
 ### 5. Pagination with Limit and Offset (`GET /books/?limit=5&offset=0`)
 ![Pagination](screenshots/pagination.png)
 
-*(Remaining route screenshots can be added here as additional verification)*
+### 6. Price Range Filtering (`GET /books/?min_price=300&max_price=500`)
+![Price Filter](screenshots/price-filter.png)
+
+### 7. Combined Query Parameters
+![Combined Query Parameters](screenshots/combined-query-parameters.png)
+
+### 8. Get Single Book by ID (`GET /books/1/`)
+![Get Single Book](screenshots/get-single-book.png)
+
+### 9. Create Book (`POST /books/`)
+![Create Book](screenshots/post-book.png)
+
+### 10. Update Book (`PUT /books/11/`)
+![Update Book](screenshots/put-book.png)
+
+### 11. Delete Book (`DELETE /books/11/`)
+![Delete Book](screenshots/delete-book.png)
+
+### 12. Book Not Found 404 Route (`GET /books/99999/`)
+![Invalid Book 404](screenshots/invalid-book-404.png)
+
+### 13. Invalid Input Body 400 Route (`POST /books/` invalid body)
+![Postman Invalid Input](screenshots/postman-invalid-input.png)
+
+### 14. Invalid Query Parameter 400 Route (`GET /books/?order_by=invalid`)
+![Invalid Query Parameters](screenshots/invalid-query-parameters.png)
+
+### 15. SQLite Database Verification (CLI)
+![SQLite Database](screenshots/sqlite-database.png)
 
 ---
 
