@@ -1,0 +1,19 @@
+# Screenshots directory for Lab 3
+# Place your Postman and SQLite verification screenshots here:
+# - get-all-books.png
+# - search-books.png
+# - sort-ascending.png
+# - sort-descending.png
+# - pagination.png
+# - price-filter.png
+# - combined-query-parameters.png
+# - get-single-book.png
+# - post-book.png
+# - put-book.png
+# - delete-book.png
+# - invalid-book-404.png
+# - postman-invalid-input.png
+# - invalid-query-parameters.png
+# - debugging-errors.png
+# - sqlite-database.png
+
